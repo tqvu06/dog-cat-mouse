@@ -3,3 +3,5 @@ function Mouse(name, color){
 	this.color = color;
 	this.aliveStatus = true;
 }
+
+module.exports = Mouse;

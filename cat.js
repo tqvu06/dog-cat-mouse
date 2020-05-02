@@ -3,3 +3,5 @@ function Cat(name, color){
 	this.color = color;
 	this.stomach = [];
 }
+
+module.exports = Cat;
