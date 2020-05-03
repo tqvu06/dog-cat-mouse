@@ -2,4 +2,4 @@ function Horse(){
 
 }
 
-module.exports = Horse;
+module.exports = Horse
